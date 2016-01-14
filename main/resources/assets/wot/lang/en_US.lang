@@ -1,0 +1,79 @@
+item.ItemCuendillar.name=Cuendillar Shard
+item.ItemDarkseal1.name=Seal One
+item.ItemDarkseal2.name=Seal Two
+item.ItemDarkseal3.name=Seal Three
+item.ItemDarkseal4.name=Seal Four
+item.ItemDarkseal5.name=Seal Five
+item.ItemDarkseal6.name=Seal Six
+item.ItemDarkseal7.name=Seal Seven
+item.ItemKafbean.name=Kaf Bean
+item.ItemPowerinfusedingot.name=Power Infused Ingot
+item.ItemPowerdust.name=Power Dust
+item.ItemAngelta.name=Angel Ter'Angreal
+item.ItemFountainta.name=Fountain Ter'Angreal
+item.ItemSunburst.name=Sunburst Emblem
+item.ItemTabard.name=Plain Tabard
+item.ItemWctabard.name=Whitecloak Tabard
+item.ItemGoatmeat.name=Raw Goat Meat
+item.ItemGoathide.name=Goat Hide
+item.ItemUnbrewedKaf.name=Unbrewed Kaf
+item.ItemUncookedmeatpie.name=Uncooked Meatpie
+item.ItemGrain.name=Grain
+
+tile.BlockCuendillar.name=Cuendillar Block
+tile.BlockPowerore.name=Power Infused Ore
+tile.BlockIcePeppers.name=Saldaean Ice Peppers
+tile.BlockWheel.name=Wagon Wheel
+tile.BlockCabinet.name=Cabinet
+tile.BlockBlight.name=Blight Grass
+tile.BlockBlightdirt.name=Blight Dirt
+tile.BlockStasisbox.name=Stasis Box
+
+
+item.ItemKaf.name=Kaf
+item.ItemMotai.name=Motai
+item.ItemCookedgoat.name=Cooked Goat
+item.ItemGoatstew.name=Goat Stew
+item.ItemIcePepper.name=Saldaean Ice Pepper
+item.ItemPepperbeefstew.name= Saldaean Peppered Beef Stew
+item.ItemFishstew.name=Altaran Fish Stew
+item.ItemMeatpie.name=Baked Meat Pie
+item.ItemPorridge.name=Porridge
+
+item.ItemPowerPickaxe.name=Power Enhanced Pickaxe
+item.ItemPowerAxe.name=Power Enhanced Axe
+item.ItemPowerShovel.name=Power Enhanced Shovel
+item.ItemPowerHoe.name=Power Enhanced Hoe
+item.ItemPowerSword.name=Power Enhanced Sword
+item.ItemSpear.name=Aiel Spear
+item.ItemAshandarei.name=Ashandarei
+item.ItemHeronSword.name=Heron Marked Sword
+item.ItemMahalleinir.name=Mah'alleinir
+
+item.ItemwhitecloakHelm.name=Whitecloak Helmet
+item.ItemwhitecloakBoots.name=Whitecloak Boots
+item.ItemwhitecloakChest.name=Whitecloak Breastplate
+item.ItemwhitecloakLegs.name=Whitecloak Leggings
+
+item.ItemaielgarbHelm.name=Shoufa
+item.ItemaielgarbBoots.name=Soft Boots
+item.ItemaielgarbChest.name=Cadin'sor Chest
+item.ItemaielgarbLegs.name=Cadin'sor Breeches
+
+itemGroup.tabWheelOfTime=Wheel Of Time
+
+entity.Trolloc Mob.name=Trolloc
+entity.Motai Mob.name=Motai
+entity.Aiel Mob.name=Aiel
+entity.Darkhound Mob.name=Darkhound
+entity.Goat Mob.name=Goat
+entity.Myrddraal Mob.name=Myrddraal
+entity.Damane Mob.name=Sul'dam and Damane
+entity.Whitecloak Mob.name=Whitecloak
+entity.Torm Mob.name=Torm
+entity.Gara Mob.name=Gara
+entity.Deathwatch Mob.name=Deathwatch Guard
+entity.Ashaman Mob.name=Asha'man
+
+
+generator.WheelOfTime=Wheel Of Time
